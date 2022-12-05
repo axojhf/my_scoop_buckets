@@ -1,0 +1,21 @@
+{
+    "version": "latest",
+    "description": "The Zig Language Server (zls) is a tool that implements Microsoft's Language Server Protocol for Zig in Zig. In simpler terms: it'll provide you with completions, go-to definition, etc. when you write Zig code!",
+    "homepage": "https://github.com/zigtools/zls",
+    "license": "MIT",
+    "architecture": {
+        "64bit": {
+            "url": "https://zig.pm/zls/downloads/x86_64-windows/bin/zls.exe"
+        },
+        "32bit": {
+            "url": "https://zig.pm/zls/downloads/x86-windows/bin/zls.exe"
+        }
+    },
+    "shortcuts": [
+        [
+            "zls.exe",
+            "zls"
+        ]
+    ],
+    "bin": "zls.exe"
+}
