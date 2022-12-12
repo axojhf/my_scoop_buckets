@@ -1,12 +1,12 @@
 {
-    "version": "v0.1.4-beta",
+    "version": "v0.1.5-beta",
     "description": "跨平台的DASH/HLS/MSS下载工具。支持点播、直播(DASH/HLS)。",
     "homepage": "https://github.com/nilaoda/N_m3u8DL-RE",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/nilaoda/N_m3u8DL-RE/releases/download/v0.1.4-beta/N_m3u8DL-RE_Beta_win-x64_20221206.zip",
-            "hash": "3c1799435ea1a4fdabfba21dd971b4dd0a90e58eb6068741e80684ee5ce16d1b",
+            "url": "https://github.com/nilaoda/N_m3u8DL-RE/releases/download/v0.1.5-beta/N_m3u8DL-RE_Beta_win-x64_20221212.zip",
+            "hash": "1b7170baf52bcfc84e86468d8c550883ef2c660bbb1b2d8e0a57c2a8363ab9b7",
             "extract_dir": "N_m3u8DL-RE_Beta_win-x64"
         }
     },
