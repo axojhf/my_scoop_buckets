@@ -9,7 +9,7 @@
     "architecture": {
         "64bit": {
             "url": "https://ziglang.org/builds/zig-windows-x86_64-0.11.0-dev.1253+fcee1bf99.zip",
-            "hash": "ea591b8c36cfbd6443ce3e6f596f2090c0ee79df0a4187be704500bd685e98bd",
+            "hash": "FCA312E40A0C93EBA8DE31C47EB7BFC3B0C1107D44F7838764DF02BA19C5729E",
             "extract_dir": "zig-windows-x86_64-0.11.0-dev.1253+fcee1bf99"
         }
     },
