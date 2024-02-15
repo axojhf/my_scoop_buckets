@@ -5,10 +5,10 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://zig.pm/zls/downloads/x86_64-windows/bin/zls.exe"
+            "url": "https://zigtools-releases.nyc3.digitaloceanspaces.com/zls/master/x86_64-windows/zls.exe"
         },
         "32bit": {
-            "url": "https://zig.pm/zls/downloads/x86-windows/bin/zls.exe"
+            "url": "https://zigtools-releases.nyc3.digitaloceanspaces.com/zls/master/x86-windows/zls.exe"
         }
     },
     "shortcuts": [
