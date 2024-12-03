@@ -6,8 +6,7 @@
     "architecture": {
         "64bit": {
             "url": "https://github.com/nilaoda/N_m3u8DL-RE/releases/download/v0.3.0-beta/N_m3u8DL-RE_v0.3.0-beta_win-x64_20241203.zip",
-            "hash": "876b3208bd466e433a22ddea98330b8a5078c95306ba2fb74e4bfc8950d07b24",
-            "extract_dir": "N_m3u8DL-RE_Beta_win-x64"
+            "hash": "876b3208bd466e433a22ddea98330b8a5078c95306ba2fb74e4bfc8950d07b24"
         }
     },
     "shortcuts": [
