@@ -24,10 +24,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://github.com/nilaoda/N_m3u8DL-RE/releases/download/$version/N_m3u8DL-RE_$version_win-x64_$matchDate.zip",
+                "url": "https://github.com/nilaoda/N_m3u8DL-RE/releases/download/$version/N_m3u8DL-RE_$version_win-x64_$matchDate.zip"
             },
             "arm64": {
-                "url": "https://github.com/nilaoda/N_m3u8DL-RE/releases/download/$version/N_m3u8DL-RE_$version_win-arm64_$date.zip",
+                "url": "https://github.com/nilaoda/N_m3u8DL-RE/releases/download/$version/N_m3u8DL-RE_$version_win-arm64_$date.zip"
             }
         }
     }
